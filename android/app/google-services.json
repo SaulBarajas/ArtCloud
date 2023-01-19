@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "488277901432",
+    "project_id": "artcloud-d213a",
+    "storage_bucket": "artcloud-d213a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:488277901432:android:d6afbb79788466f31a2d8d",
+        "android_client_info": {
+          "package_name": "com.example.ArtCloud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "488277901432-vlauea52rt2ooinuh472r70g99kv636m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfRsX1EAIVSIiNdqJPJQGl2uYrhwInaE0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "488277901432-vlauea52rt2ooinuh472r70g99kv636m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
